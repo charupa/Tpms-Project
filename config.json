@@ -1,0 +1,15 @@
+{
+    "host": "localhost",
+    "port": "3307",
+    "user": "root",
+    "password": "",
+    "log_enabled": true,
+    "separator": "|",
+    "fields": {
+        "datetime": true,
+        "pressure": true,
+        "temperature": true,
+        "battery": true,
+        "raw": true
+    }
+}
